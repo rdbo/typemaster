@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Arvo";
+    font-weight: regular;
+    src: url("/font/Arvo/Arvo-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Arvo";
+    font-weight: bold;
+    src: url("/font/Arvo/Arvo-Bold.ttf");
+}
+
