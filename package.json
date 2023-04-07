@@ -7,7 +7,8 @@
     "serve": "vite",
     "watch-css": "tailwindcss -i ./src/assets/main.css -o public/styles.css --watch",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prod": "vite --host 0.0.0.0"
   },
   "dependencies": {
     "vue": "^3.2.45",
